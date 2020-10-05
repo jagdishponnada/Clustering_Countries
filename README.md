@@ -1,2 +1,25 @@
 # Clustering_Countries
-This project deals with clustering countries as per the socio-economic features. 
+
+## Background 
+HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities. It runs a lot of operational projects from time to time along with advocacy drives to raise awareness as well as for funding purposes.After the recent funding programmes, they have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. The significant issues that come while making this decision are mostly related to choosing the countries that are in the direst need of aid. 
+
+## Objective
+The objective of this assignment is to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then We need to suggest the countries which the CEO needs to focus on the most. 
+
+## Dataset 
+The data set contain the socio-econnomic features of some countries. 
+Here you can download the dataset (URL: https://drive.google.com/drive/folders/1PMxGkpNYEgYs6vse-QzRtEDZUUPlc8gr?usp=sharing)
+
+## Tech Stack
+- Preprocessing - Numpy and Pandas
+- Visualization - Matplotlib and Seabron
+- Modelling - Sklearn and Scipy (Kmeans and Hierarchial Clustering)
+- Dimentionality Reduction (PCA) - Sklearn.decomposition
+
+## Results 
+These are the countries which need immediate aid 
+- Haiti
+- Sierra Leone
+- Central African Republic
+- Niger
+- Congo, Dem. Rep
